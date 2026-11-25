@@ -1,4 +1,4 @@
-gfrom tkinter import *
+from tkinter import *
 
 class Application:
     def __init__ (self, master=None):
